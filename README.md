@@ -63,16 +63,6 @@ The tool uses a sophisticated approach to detect hand gestures:
 7. Trigger action if gesture is confirmed
 ```
 
-## Requirements
-
-Create a `requirements.txt` file with the following dependencies:
-
-<antArtifact identifier="requirements-txt" type="application/vnd.ant.code" language="text" title="requirements.txt">
-opencv-python>=4.7.0
-mediapipe>=0.9.0
-PyQt5>=5.15.0
-numpy>=1.21.0
-
 
 ## Installation
 
