@@ -63,7 +63,7 @@ The tool uses a sophisticated approach to detect hand gestures:
 7. Trigger action if gesture is confirmed
 ```
 
-## 📋 Requirements
+## Requirements
 
 Create a `requirements.txt` file with the following dependencies:
 
@@ -74,7 +74,7 @@ PyQt5>=5.15.0
 numpy>=1.21.0
 
 
-## 🔧 Installation
+## Installation
 
 1. Clone the repository:
 ```bash
@@ -93,7 +93,7 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-## 💻 Usage
+##  Usage
 
 1. Launch the application:
 ```bash
